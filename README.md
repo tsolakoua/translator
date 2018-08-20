@@ -1,2 +1,2 @@
-# translator
-Google translate in command line 
+## translator
+Google translate in command line using ``` googletrans ``` module 
