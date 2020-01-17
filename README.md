@@ -5,6 +5,9 @@ Google translate in command line using ``` googletrans ``` module.
 
 Recognising the input language and translating it to english. 
 
+### Installation
+```pip install googletrans```
+
 ### Run in the command line 
 
 ```-t/--text```: expected one argument
@@ -12,7 +15,7 @@ Recognising the input language and translating it to english.
 ### Example 
 
 ```
-Annas-MacBook-Pro-2:osd anna$ python3 translator.py -t "no hablo chino"
+Annas-MacBook-Pro-2:osd anna$ python translator.py -t "no hablo chino"
 I do not speak Chinese
 ```
  
